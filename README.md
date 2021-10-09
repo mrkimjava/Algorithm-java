@@ -10,4 +10,4 @@
  
  🌱2021 KAKAO BLIND RECRUITMENT<br>
  - <a href="https://github.com/mrkimjava/Algorithm/tree/master/KAKAO_BLIND_2021_RECRUITMENT/신규아이디추천">신규 아이디 추천</a>
- - <a href="https://github.com/mrkimjava/Algorithm/tree/master/KAKAO_BLIND_2021_RECRUITMENT/">메뉴 리뉴얼</a>
+ - <a href="https://github.com/mrkimjava/Algorithm/tree/master/KAKAO_BLIND_2021_RECRUITMENT/메뉴리뉴얼">메뉴 리뉴얼</a>
