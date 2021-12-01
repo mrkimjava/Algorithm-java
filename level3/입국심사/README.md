@@ -51,3 +51,5 @@
     
     
 ## 문제 풀이
+
+![image](https://user-images.githubusercontent.com/91609858/144207739-097e830f-4b70-4432-a8c3-c91556ed6a9f.png)
