@@ -52,6 +52,6 @@
     
 ## 문제 풀이
 
-### 이분 탐색을 알고리즘을 이용하여 
+### 이분 탐색을 알고리즘을 이용하여 풀었습니다.
 
 ![image](https://user-images.githubusercontent.com/91609858/144207739-097e830f-4b70-4432-a8c3-c91556ed6a9f.png)
